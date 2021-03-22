@@ -5,31 +5,10 @@
     <description>Brief collection of projects I have recently been tinkering with.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 21 Mar 2021 23:04:16 -0700</pubDate>
-    <lastBuildDate>Sun, 21 Mar 2021 23:04:16 -0700</lastBuildDate>
+    <pubDate>Sun, 21 Mar 2021 23:25:59 -0700</pubDate>
+    <lastBuildDate>Sun, 21 Mar 2021 23:25:59 -0700</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
 
-    
-      <item>
-        <title>Escape Plan - Sample-based hip-hop beat tape</title>
-        <description>&lt;p&gt;Coming back to a hobby with a redefined vision is one of the most gratifying feelings I’ve experienced.&lt;/p&gt;
-
-&lt;p&gt;Before I picked up programming, I loved dabbling with different electronics to express creativity. This included devling into photography, filmmaking, DJing, and music production. However, the idea of producing music on a computer scared me the most. I’ve always been picky with the style of music I consume and I imagined it would take me years to create a sound I considered to be relatively good.&lt;/p&gt;
-
-&lt;p&gt;I learned some production basics in a Rutgers class called &lt;a href=&quot;https://www.masongross.rutgers.edu/07700135-making-music-with-computers-introduction-to-digital-audio-online/&quot;&gt;Making Music with Computers&lt;/a&gt; I took during my senior year in 2018. The coursework taught DAWs (namely Cubase) and the vocabulary, process, and history behind capturing instrumentation within the software. Although the course expanded on Cubase, the material was easy to translate to other DAWs, such as Logic, especially with the help of an Akai MPK Mini I used.&lt;/p&gt;
-
-&lt;p&gt;In October 2019, I finally devoted massive bouts of my free time to create music for myself. After brushing up on the basics, I sought to improve my workflow by introducing &lt;a href=&quot;https://www.native-instruments.com/en/products/maschine/production-systems/maschine/&quot;&gt;Maschine&lt;/a&gt; which eventually became the driving force of all the production I did. Chopping up samples, adding in drums, experimenting with keys/synths, playing in a bass layer - everything became a breeze. Once shelter-in-place went into effect in NJ/NYC for COVID-19, any and all of my free time went into some phase of this workflow. And after five long months of consistent practice, I’m proud to release a 7-track beat tape called &lt;a href=&quot;https://dotavi.bandcamp.com/releases&quot;&gt;Escape Plan&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/posts/escplan/album.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This project is backed by countless hours of finding the perfect sounds and collaborating with some good friends, and I’ve learned a lot along the way. With time I began to improve my workflow, open my mind to different music, and learn more about the experiences fellow producers have had. A big shout out goes out to everyone that helped bring this project together, this project would not have been possible without those that pushed me forward and gave me feedback around the clock.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://distrokid.com/hyperfollow/avi16/escape-plan&quot;&gt;&lt;button class=&quot;c-btn c-btn--full&quot;&gt;Stream Escape Plan&lt;/button&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 19 Aug 2020 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/escplan/</link>
-        <guid isPermaLink="true">http://localhost:4000/escplan/</guid>
-      </item>
     
       <item>
         <title>Covid-iOS - Daily count of cases of COVID-19</title>
@@ -319,63 +298,6 @@
       
     
       
-        
-          <item>
-            <title>About Me</title>
-            <description>&lt;h4 id=&quot;hey-my-name-is-avijeet-sachdev-but-you-can-call-me-avi&quot;&gt;Hey! My name is Avijeet Sachdev, but you can call me Avi.&lt;/h4&gt;
-
-&lt;p&gt;I love tinkering with technology to turn impossibile ideas into tangible products, especially ones that can empower people. I am a Software Engineer in New York City, currently working as an iOS Engineer at Healthfirst.&lt;/p&gt;
-
-&lt;p&gt;Furthermore, I have a deep appreciation for art that pushes the needle forward, speaks volumes subtly, and exudes creativity. I’ve spent countless hours exploring the diverse works of UI/UX design, music production, street photography, and fashion. A selected few artists that hold great influence on me are &lt;a href=&quot;http://atribecalledquest.com/&quot;&gt;A Tribe Called Quest&lt;/a&gt;, &lt;a href=&quot;https://www.stonesthrow.com/madlib&quot;&gt;Madlib&lt;/a&gt;, &lt;a href=&quot;http://www.mattstuart.com/photography&quot;&gt;Matt Stuart&lt;/a&gt;, and &lt;a href=&quot;https://shop.ronniefieg.com/blogs/news&quot;&gt;Ronnie Fieg&lt;/a&gt;. I am known to collect vinyl records and sneakers.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/pages/amoeba.jpg&quot; /&gt;
-&lt;em&gt;Amoeba Record Store in Los Angeles, CA&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;previously&quot;&gt;Previously&lt;/h3&gt;
-
-&lt;p&gt;Throughout my experiences working for companies such as Avanade/Accenture, Viacom, Bond, to.be, Betaworks, and DoSomething, I have built functionality for projects including a dynamic advertisement configuration tool, clothing marketplace for user-submitted designs, and an interactive data-driven dashboard.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/pages/skyline.jpg&quot; /&gt;
-&lt;em&gt;New York City skyline from Jersey City, NJ&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;I completed my undergraduate degree in Informatics, with an emphasis in Human-Computer Interaction, with minors in Computer Science and Philosophy from &lt;a href=&quot;http://rutgers.edu&quot;&gt;Rutgers University&lt;/a&gt; in New Brunswick, NJ. My course work included Principles of Programming Languages, Data Structures and Algorithms, Web Design, Human-Computer Interaction, Philosophical Logic, Database Management Systems, and Computer Architecture. I served as President of the &lt;a href=&quot;https://rumad.club/&quot;&gt;Rutgers Mobile App Development Club&lt;/a&gt;, coordinating workshops and mentor programs for students interested in applying Computer Science theory to iOS and Android platforms.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;philosophy&quot;&gt;Philosophy&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Dream in years&lt;/li&gt;
-  &lt;li&gt;Plan in months&lt;/li&gt;
-  &lt;li&gt;Evaluate in weeks&lt;/li&gt;
-  &lt;li&gt;Ship daily&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Prototype for 1x&lt;/li&gt;
-  &lt;li&gt;Build for 10x&lt;/li&gt;
-  &lt;li&gt;Engineer for 100x&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;What’s required to cut the timeline in half?&lt;/li&gt;
-  &lt;li&gt;What needs to be done to double the impact?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;Source: &lt;a href=&quot;https://twitter.com/DJ44/status/819316928623902720&quot;&gt;U.S Chief Data Scientist, DJ Patil&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-</description>
-            <link>http://localhost:4000/about/</link>
-          </item>
-        
-      
-    
-      
     
       
     
@@ -398,8 +320,6 @@
             <link>http://localhost:4000/tags.html</link>
           </item>
         
-      
-    
       
     
       
