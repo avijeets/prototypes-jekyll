@@ -1,0 +1,25 @@
+---
+layout: post
+title: NextUp - Track dates in a novel, feature-packed way!
+tags: [iOS, Swift]
+---
+
+![](/images/posts/nextup/edit.png)
+
+Almost 700,000 people, along with myself, absolutely love the [Year Progress twitter account](https://twitter.com/year_progress) - made by Filip Hráček. Tracking the progress has been fun, motivating, and at times, frightening. As impactful as it has been, I've always needed **more**. One tweet every three days feels lightweight but it always creeps up on you every time the tweet hits your feed. 
+
+I've always wanted to have this tracker on my phone, for more dates than just Jan 1 to the following Jan 1, but the date math was presumably going to be tricky to perfect. I spent a couple hours working through the date math in a Swift Playground and essentially built out the core functionality for the app that I'd always wanted. That night, I started building out NextUp using SwiftUI and displaying that data in a fun, animated circular progress view.
+
+![](/images/posts/nextup/pinned.png)
+
+After a few days of work, NextUp was working for any date and any user. All dates were persisted using the FileManager built into the iOS app bundle which keeps everything secure for the user. The app will present you Pinned dates for the day, month, and year and past that, you can use NextUp to track any dates and share them out to people in your life!
+
+![](/images/posts/nextup/iOS.png)
+
+*This app is meant to just work.*
+
+Not get in the way or be more than it needs to be.
+
+Track your dates by downloading NextUp on the App Store!
+
+<a href="https://nextup.avijeets.com"><button class='c-btn c-btn--full'>See the NextUp website</button></a>
