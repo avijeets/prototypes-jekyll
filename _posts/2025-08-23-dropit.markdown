@@ -1,0 +1,27 @@
+---
+layout: post
+title: DropIt - AI-powered food safety for your pets
+tags: [iOS, Swift, Firebase, AI]
+---
+
+As my little pup gets older, she is seeming to develop a taste for my food more than her own. 
+
+Every pet caretaker has been there: you're eating something and your dog gives you *that* look. I've learned how weak I am to that look, while also not learned an exact list of foods my dog cannot have (other than the obvious ones). Did you know some dogs can eat dairy while some breeds are rampant with allergies? So confusing.
+
+DropIt is a simple iOS app that gives you a quick, reliable answer based on your pets. No more typing "My dog is a 2 year-old Cockapoo asking for a bit of my sandwich. Is that safe? My sandwich contains..." while your dog is sitting there salivating.
+
+![](/images/posts/dropit/ChatView.png) 
+
+Type in what you're considering sharing and get a safety check in seconds. The response tells you whether the food is safe, requires caution, or should be avoided entirely - along with a short explanation and alternative suggestions if needed.
+
+The app uses a chat-style interface that feels natural. You ask about a food the same way you'd text a friend who happens to be a veterinarian. Each response includes a clear safety level, a summary, and any relevant warnings specific to your pet's breed, age, and weight.
+
+On the backend, Firebase Cloud Functions handle the AI queries through OpenAI's API, keeping everything server-side so no API keys live on the device. Firestore manages user data, search history, and usage tracking. The app supports Sign in with Apple and anonymous auth for people who just want to try it out without committing to an account.
+
+![](/images/posts/dropit/SettingsView.png)
+
+Building this was a fun exercise in combining SwiftUI with a Firebase backend and an AI layer on top. The core interaction is dead simple, but getting the details right - rate limiting, abuse detection, quota management, cost tracking - turned it into a more interesting engineering problem than expected.
+
+*Can my dog eat that? Now there's an app for it.*
+
+<a href="https://github.com/avijeets/dropit"><button class='c-btn c-btn--full'>See Source Code on GitHub</button></a>
