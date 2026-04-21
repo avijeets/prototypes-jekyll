@@ -10,7 +10,7 @@ title:       'Prototypes'
 email:       'a@avijeets.com'
 description: 'Brief collection of projects I have recently been tinkering with.'
 baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'http://avijeets.com/?q=url' # The base hostname & protocol for your site
+url:         'https://prototypes.avijeets.com' # The base hostname & protocol for your site
 twitter:     'http://twitter.com/avijeets'
 github:      'http://github.com/avijeets'
 
