@@ -23,5 +23,3 @@ On the backend, Firebase Cloud Functions handle the AI queries through OpenAI's 
 Building this was a fun exercise in combining SwiftUI with a Firebase backend and an AI layer on top. The core interaction is dead simple, but getting the details right - rate limiting, abuse detection, quota management, cost tracking - turned it into a more interesting engineering problem than expected.
 
 *Can my dog eat that? Now there's an app for it.*
-
-<a href="https://github.com/avijeets/dropit"><button class='c-btn c-btn--full'>See Source Code on GitHub</button></a>
